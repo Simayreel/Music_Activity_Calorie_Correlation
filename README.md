@@ -1,5 +1,5 @@
 ## Code related to my project can be found at: Music_Activity_Calorie_Correlation.ipynb
-## You can see my presentatşon at: 
+## You can see my presentation at: Music_Activity_Calorie_Correlation Presentation.pdf
 # Music_Activity_Calorie_Correlation
 ## Dataset Description
 ### Sources: Music listening data from Spotify and physical activity data from Health app.
