@@ -1,5 +1,5 @@
-## Code related to my project can be found at: (https://github.com/Simayreel/Music_Activity_Calorie_Correlation/blob/main/Music_Activity_Calorie_Correlation.ipynb).
-## You can see my presentation at: (https://github.com/Simayreel/Music_Activity_Calorie_Correlation/blob/main/Music_Activity_Calorie_Correlation%20Presentation.pdf).
+### Code related to my project can be found at: (https://github.com/Simayreel/Music_Activity_Calorie_Correlation/blob/main/Music_Activity_Calorie_Correlation.ipynb).
+### You can see my presentation at: (https://github.com/Simayreel/Music_Activity_Calorie_Correlation/blob/main/Music_Activity_Calorie_Correlation%20Presentation.pdf).
 
 # Music_Activity_Calorie_Correlation
 ## Dataset Description
