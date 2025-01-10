@@ -1,4 +1,4 @@
-### Code related to my project can be found at: # Music_Activity_Calorie_Correlation.ipynb
+### Code related to my project can be found at: * Music_Activity_Calorie_Correlation.ipynb
 ### You can see my report at: Music_Activity_Calorie_Correlation Report.pdf
 ### You can see my presentation at: Music_Activity_Calorie_Correlation Presentation.pdf
 
